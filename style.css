@@ -42,6 +42,10 @@
 .text-yellow{
     color: #FCC900;
 }
+.discount-container{
+    background-image: url(./images/discount-bannar.jpeg);
+    height: 300px;
+}
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
