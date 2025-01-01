@@ -58,15 +58,24 @@
     height: 300px;
 }
 
+/* blog css */
+.blog-main-header{
+    background-image: url(./images/blog-bg.png);
+    height: 100px;
+}
+
+/* gallery css */
+.gallery-content{
+    display: grid;
+    grid-template-columns: auto auto auto auto;
+}
+
 @media screen and (max-width: 768px){
     .w-15{
         width: 30%;
     }
 
-    .contact-main-header{
-        display: none;
-    }
-    .contact-main-map{
+    .contact-main-header, .blog-main-header, .contact-main-map{
         display: none;
     }
 }
