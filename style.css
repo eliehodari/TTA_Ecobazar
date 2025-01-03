@@ -82,7 +82,7 @@
         width: 30%;
     }
 
-    .contact-main-header, .blog-main-header, .contact-main-map{
+    .contact-main-header, .blog-main-header, .contact-main-map, .single-blog-main-header{
         display: none;
     }
 }
