@@ -64,6 +64,12 @@
     height: 100px;
 }
 
+/* single blog css */
+.single-blog-main-header{
+    background-image: url(./images/Breadcrumbs.png);
+    height: 100px;
+}
+
 /* gallery css */
 .gallery-content{
     display: grid;
